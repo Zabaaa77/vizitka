@@ -1,4 +1,4 @@
-# vizitka-2023
+# repozitář VIZITKA
 
 Šablona projektu pro cvičení práce s Gitem.
 
